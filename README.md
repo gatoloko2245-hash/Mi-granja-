@@ -1,0 +1,2 @@
+# Mi-granja-
+Esto es una practica de un juego de farmear en una granja con python :p
